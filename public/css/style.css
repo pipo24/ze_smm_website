@@ -2,6 +2,16 @@ body {
   background-color: #FBFBFB;
   font-family: "Garamond";
 }
+a {
+  color: black;
+}
+a:hover{
+  color: red;
+}
+.email {
+  margin-top: 10px;
+  margin-left: 50%;
+}
 div {
   background-image: url("../images/background.jpg");
   background-size: cover;
@@ -37,6 +47,9 @@ img {
     max-width: 280px;
     margin-top: 60%;
     margin-left: 7%;
+  }
+  .email {
+    top: -250px;
   }
 }
 /*TABLET*/
