@@ -1,0 +1,13 @@
+body {
+  background-color: #E3E5E4;
+  font-family: "Garamond";
+}
+p {
+  font-size: 15px;
+}
+span {
+  font-size: 20px;
+}
+img {
+  height: 65px;
+}
